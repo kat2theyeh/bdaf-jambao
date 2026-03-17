@@ -1,0 +1,12 @@
+[profile.default]
+src = "src"
+test = "test"
+script = "script"
+out = "out"
+libs = ["lib"]
+remappings = ["openzeppelin-contracts/=lib/openzeppelin-contracts/"]
+
+[rpc_endpoints]
+garfield_testnet = "https://garfield-testnet.zircuit.com"
+
+# See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
