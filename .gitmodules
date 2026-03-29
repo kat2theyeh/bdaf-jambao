@@ -4,3 +4,15 @@
 [submodule "lab03/lib/openzeppelin-contracts"]
 	path = lab03/lib/openzeppelin-contracts
 	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "labo1/lib/openzeppelin-foundry-upgrades"]
+	path = labo1/lib/openzeppelin-foundry-upgrades
+	url = https://github.com/OpenZeppelin/openzeppelin-foundry-upgrades
+[submodule "labo1/lib/openzeppelin-contracts-upgradeable"]
+	path = labo1/lib/openzeppelin-contracts-upgradeable
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable
+[submodule "labo1/lib/openzeppelin-contracts"]
+	path = labo1/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "lab04/lib/openzeppelin-contracts"]
+	path = lab04/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
